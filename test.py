@@ -3,6 +3,8 @@ import urllib, urllib2, sys
 import json
 import ssl
 import sys
+
+#TODO 代码写的太丑了，需要改一改
 reload(sys)
 sys.setdefaultencoding('utf8')
 
